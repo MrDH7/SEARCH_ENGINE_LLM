@@ -6,4 +6,5 @@ emoji: 🏃
 colorFrom: red
 colorTo: yellow
 short_description: Search Engine With LLM
+sdk_version: 1.45.0
 ---
